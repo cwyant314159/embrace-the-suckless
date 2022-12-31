@@ -1,0 +1,6 @@
+[submodule "myst"]
+	path = myst
+	url = git@github.com:cwyant314159/myst.git
+[submodule "mydmenu"]
+	path = mydmenu
+	url = git@github.com:cwyant314159/mydmenu.git
